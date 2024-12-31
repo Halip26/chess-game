@@ -1,6 +1,6 @@
 # Chess Game
 
-This is a simple chess game using Pygame for the GUI and RemBG for removing the chess background.
+This project is a graphical chess game implemented using Pygame. It allows players to play a full game of chess with a user-friendly interface. The game supports all standard chess rules and piece movements, and it provides visual feedback for valid moves and captures.
 
 ## Features
 
